@@ -36,7 +36,12 @@ void inmang(int a[], int n) {
     printf("\n");
 }
 int main(){
-    int a[] = {75, 70, 65, 84, 98, 78, 100, 93, 55, 61, 81, 68};
+    int k; printf ("Nhap so luong o: "); scanf ("%d", &k);
+    int a[k];
+    for (int i=0; i<k; i++){
+        printf ("Nhap phan tu thu %d: ", i+1);
+        scanf ("%d", &a[i]);    
+    }
     int n = sizeof(a) / sizeof(a[0]);
     printf("Mang ban dau: ");
     inmang(a, n);
