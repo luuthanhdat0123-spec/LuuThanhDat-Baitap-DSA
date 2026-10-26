@@ -25,7 +25,7 @@
     - Nếu check == 1 thì thực hiện in ra mảng có tổng thỏa mãn và có độ dài lớn nhất
     - Nếu check == 0 thì in ra không có mảng thỏa mãn
 
-**Độ phức tạp $O(n^2)$**
+**Độ phức tạp $O(n^3)$**
 
 ## Test case
 ### Case 1:
