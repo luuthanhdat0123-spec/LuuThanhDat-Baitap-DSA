@@ -19,7 +19,7 @@
         - Nếu thỏa mãn điều kiện: $max-min=j-i$ thì các phần tử của dãy con là những số nguyên liên tiếp.
         - Tính độ dài L với các dãy con thỏa mãn để tìm ra dãy con lớn nhất
     - In dãy con lớn nhất thỏa mãn các điều kiện ra màn hình.
-** Độ phức tạp thuật toán $O(n^3)$**
+**Độ phức tạp thuật toán $O(n^3)$**
 
 ## Test case
 ### Case 1:
