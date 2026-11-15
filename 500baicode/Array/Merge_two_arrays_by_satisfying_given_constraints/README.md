@@ -25,7 +25,7 @@
         + tăng k++
 4. Độ phức tạp thuật toán: O($n^2$)
 
-## ** Test case **
+## **Test case**
 ### Input:
 ```
 x[m] = { 0, 2, 0, 3, 0, 5, 6, 0, 0}
